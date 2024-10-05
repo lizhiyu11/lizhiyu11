@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lizhiyu11🚺
+- 👋 Hi, I’m @Lychee-Y🚺
 
 <!---
 lizhiyu11/lizhiyu11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
